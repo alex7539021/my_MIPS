@@ -1,0 +1,157 @@
+VCD info: dumpfile dump.vcd opened for output.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[0] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[1] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[2] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[3] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[4] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[5] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[6] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[7] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[8] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[9] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[10] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[11] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[12] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[13] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[14] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[15] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[16] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[17] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[18] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[19] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[20] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[21] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[22] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[23] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[24] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[25] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[26] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[27] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[28] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[29] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[30] will conflict with an escaped identifier.
+VCD warning: array word sm_testbench.sm_top.sm_cpu.rf.rf[31] will conflict with an escaped identifier.
+WARNING: ../../../src/sm_rom.v:14: $readmemh: Standard inconsistency, following 1364-2005.
+WARNING: ../../../src/sm_rom.v:14: $readmemh(program.hex): Not enough words in the file for the requested range [0:63].
+    0  pc =  x  pcaddr = xxxxxxxX  instr = 00001021   v0 = 0   addu  $2, $0, $0
+    1  pc =  x  pcaddr = xxxxxxxX  instr = 00001021   v0 = 0   addu  $2, $0, $0
+    2  pc =  0  pcaddr = 00000000  instr = 00001021   v0 = 0   addu  $2, $0, $0
+    3  pc =  0  pcaddr = 00000000  instr = 00001021   v0 = 0   addu  $2, $0, $0
+    4  pc =  0  pcaddr = 00000000  instr = 00001021   v0 = 0   addu  $2, $0, $0
+    5  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 0   addiu $2, $2, 1
+    6  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 1   beq   $0, $0, -1
+    7  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 1   addiu $2, $2, 1
+    8  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 2   beq   $0, $0, -1
+    9  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 2   addiu $2, $2, 1
+   10  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 3   beq   $0, $0, -1
+   11  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 3   addiu $2, $2, 1
+   12  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 4   beq   $0, $0, -1
+   13  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 4   addiu $2, $2, 1
+   14  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 5   beq   $0, $0, -1
+   15  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 5   addiu $2, $2, 1
+   16  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 6   beq   $0, $0, -1
+   17  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 6   addiu $2, $2, 1
+   18  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 7   beq   $0, $0, -1
+   19  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 7   addiu $2, $2, 1
+   20  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 8   beq   $0, $0, -1
+   21  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 8   addiu $2, $2, 1
+   22  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 9   beq   $0, $0, -1
+   23  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 9   addiu $2, $2, 1
+   24  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 10   beq   $0, $0, -1
+   25  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 10   addiu $2, $2, 1
+   26  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 11   beq   $0, $0, -1
+   27  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 11   addiu $2, $2, 1
+   28  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 12   beq   $0, $0, -1
+   29  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 12   addiu $2, $2, 1
+   30  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 13   beq   $0, $0, -1
+   31  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 13   addiu $2, $2, 1
+   32  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 14   beq   $0, $0, -1
+   33  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 14   addiu $2, $2, 1
+   34  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 15   beq   $0, $0, -1
+   35  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 15   addiu $2, $2, 1
+   36  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 16   beq   $0, $0, -1
+   37  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 16   addiu $2, $2, 1
+   38  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 17   beq   $0, $0, -1
+   39  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 17   addiu $2, $2, 1
+   40  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 18   beq   $0, $0, -1
+   41  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 18   addiu $2, $2, 1
+   42  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 19   beq   $0, $0, -1
+   43  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 19   addiu $2, $2, 1
+   44  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 20   beq   $0, $0, -1
+   45  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 20   addiu $2, $2, 1
+   46  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 21   beq   $0, $0, -1
+   47  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 21   addiu $2, $2, 1
+   48  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 22   beq   $0, $0, -1
+   49  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 22   addiu $2, $2, 1
+   50  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 23   beq   $0, $0, -1
+   51  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 23   addiu $2, $2, 1
+   52  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 24   beq   $0, $0, -1
+   53  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 24   addiu $2, $2, 1
+   54  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 25   beq   $0, $0, -1
+   55  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 25   addiu $2, $2, 1
+   56  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 26   beq   $0, $0, -1
+   57  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 26   addiu $2, $2, 1
+   58  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 27   beq   $0, $0, -1
+   59  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 27   addiu $2, $2, 1
+   60  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 28   beq   $0, $0, -1
+   61  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 28   addiu $2, $2, 1
+   62  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 29   beq   $0, $0, -1
+   63  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 29   addiu $2, $2, 1
+   64  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 30   beq   $0, $0, -1
+   65  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 30   addiu $2, $2, 1
+   66  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 31   beq   $0, $0, -1
+   67  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 31   addiu $2, $2, 1
+   68  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 32   beq   $0, $0, -1
+   69  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 32   addiu $2, $2, 1
+   70  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 33   beq   $0, $0, -1
+   71  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 33   addiu $2, $2, 1
+   72  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 34   beq   $0, $0, -1
+   73  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 34   addiu $2, $2, 1
+   74  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 35   beq   $0, $0, -1
+   75  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 35   addiu $2, $2, 1
+   76  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 36   beq   $0, $0, -1
+   77  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 36   addiu $2, $2, 1
+   78  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 37   beq   $0, $0, -1
+   79  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 37   addiu $2, $2, 1
+   80  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 38   beq   $0, $0, -1
+   81  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 38   addiu $2, $2, 1
+   82  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 39   beq   $0, $0, -1
+   83  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 39   addiu $2, $2, 1
+   84  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 40   beq   $0, $0, -1
+   85  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 40   addiu $2, $2, 1
+   86  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 41   beq   $0, $0, -1
+   87  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 41   addiu $2, $2, 1
+   88  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 42   beq   $0, $0, -1
+   89  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 42   addiu $2, $2, 1
+   90  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 43   beq   $0, $0, -1
+   91  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 43   addiu $2, $2, 1
+   92  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 44   beq   $0, $0, -1
+   93  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 44   addiu $2, $2, 1
+   94  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 45   beq   $0, $0, -1
+   95  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 45   addiu $2, $2, 1
+   96  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 46   beq   $0, $0, -1
+   97  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 46   addiu $2, $2, 1
+   98  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 47   beq   $0, $0, -1
+   99  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 47   addiu $2, $2, 1
+  100  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 48   beq   $0, $0, -1
+  101  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 48   addiu $2, $2, 1
+  102  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 49   beq   $0, $0, -1
+  103  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 49   addiu $2, $2, 1
+  104  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 50   beq   $0, $0, -1
+  105  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 50   addiu $2, $2, 1
+  106  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 51   beq   $0, $0, -1
+  107  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 51   addiu $2, $2, 1
+  108  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 52   beq   $0, $0, -1
+  109  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 52   addiu $2, $2, 1
+  110  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 53   beq   $0, $0, -1
+  111  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 53   addiu $2, $2, 1
+  112  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 54   beq   $0, $0, -1
+  113  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 54   addiu $2, $2, 1
+  114  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 55   beq   $0, $0, -1
+  115  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 55   addiu $2, $2, 1
+  116  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 56   beq   $0, $0, -1
+  117  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 56   addiu $2, $2, 1
+  118  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 57   beq   $0, $0, -1
+  119  pc =  1  pcaddr = 00000004  instr = 24420001   v0 = 57   addiu $2, $2, 1
+  120  pc =  2  pcaddr = 00000008  instr = 1000fffe   v0 = 58   beq   $0, $0, -1
+Timeout
